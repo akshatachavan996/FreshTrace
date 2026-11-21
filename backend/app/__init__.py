@@ -1,0 +1,1 @@
+"""FreshTrace Backend Application Package."""
